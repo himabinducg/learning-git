@@ -1,0 +1,33 @@
+We have a git repository
+  1.local repository(git)
+  2.Remote repository(github)
+---------------------------------------------------------------------------
+
+untracked--add -->tracked
+There are 3 stages of tracked filters
+1.unstaged
+2.staged
+3.push/repository
+
+we have to made changes in repository and check it in local
+git init
+git status
+git add . 
+git status
+git commit -m "test message for commit"
+git log
+
+
+we have 2 repository 
+1.local rep
+2.remote rep
+
+after making any changes in the repository and if we perform push means then it will be remote repository
+
+
+git clone
+git Is
+git cd dcxtraining/    [//it is another people repository, like if we want to make some changes to the code we can use by 
+			using this command cd--> means change directory
+git checkout 
+git --git-dir ../hybris/.git log
